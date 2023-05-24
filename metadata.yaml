@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '31765'
     url: http://www.gutenberg.org/2009/agents/31765
     wikipedia: https://en.wikipedia.org/wiki/Edward_Theodore_Salvesen
+covers:
+- cover_type: archival
+  image_path: 70525-h/images/cover.jpg
 creator:
   author:
     agent_name: Buchanan, Angus
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '54980'
     url: http://www.gutenberg.org/2009/agents/54980
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70525#Sahara
 gutenberg_issued: '2023-04-11'
 identifiers:
   gutenberg: '70525'
